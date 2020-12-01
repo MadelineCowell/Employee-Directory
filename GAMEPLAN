@@ -1,0 +1,72 @@
+public
+
+
+
+src
+> components
+    EmployeeDirectory.js
+        - Employee table is created here
+    Employees.js 
+        - Employee data 
+    Navbar.js
+        - Info for the header/Navbar created here
+    Search.js
+        - Info for the search field generated here
+> css
+> utils
+    api.js 
+        - attempt at using api data
+App.css 
+    - overall styling for app (font style and sizes, container padding, color scheme)
+    * individual styling on component pages
+App.js 
+    - This is where the information for the final app lives
+    - Final feeder to Index.js
+
+
+
+
+NEW
+public
+> assets
+    data.js
+        - Employee dummy data
+        - future restructure, create objects to make resuable
+fav
+index.html
+man 
+
+src
+> components (SIMPLE NAMES!)
+    Navbar.js
+        - Info for the header/Navbar created here
+    Search.js
+        - Info for the search field generated here
+    Table.js
+        - Employee table is created here
+    Footer (optional)
+> css
+> utils
+    api.js 
+        - attempt at using api data
+App.css 
+    - By default is Main page
+    - overall styling for app (font style and sizes, container padding, color scheme)
+    * individual styling on component pages
+App.js 
+    - This is where the information for the final app lives
+    - Final feeder to Index.js
+
+
+
+CURRENT DEV
+    Navbar
+    Search
+    Table
+
+FUTURE DEV
+    More components - Split table
+        - Image, multiple images
+        - Columns -> allow filtering based on column 
+
+
