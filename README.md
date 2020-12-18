@@ -16,6 +16,7 @@ This application allows users to view all employees in a simple and clean interf
 ### Future Development
 * The search functionality is currently not fully functioning
 * I utilized an API to gather dummy employee data, I would like to create a functionality for users to create and add in their own data
+* Create individual employee profiles so when an employee is clicked on, the user can view more details
 
 ### Contact
 
