@@ -1,0 +1,17 @@
+.header {
+    display: grid;
+    width: 100%;
+    grid-template-columns: 20% 30% 20% 30% ;
+    align-items: center;
+    text-align: center;
+    vertical-align: middle;
+    font-weight: bold;
+    color: white;
+    background-color: teal;
+    
+}
+
+.name:hover {
+    color: black;
+    cursor: pointer;
+}

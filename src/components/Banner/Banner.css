@@ -1,0 +1,10 @@
+.banner-container {
+    width: 100%;
+    display: flex;
+    text-align: center;
+    font-size: 30px;
+    background-color: teal;
+    color: whitesmoke;
+    justify-content: center;
+    align-items: center;
+}
